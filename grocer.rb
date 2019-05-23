@@ -1,8 +1,5 @@
 ef consolidate_cart(cart:[])
-  result = {}
-  # code here
-  
-  result
+#code here
 end
 
 def apply_single_coupon(cart, coupon)
